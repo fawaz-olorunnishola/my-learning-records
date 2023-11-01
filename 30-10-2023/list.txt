@@ -1,0 +1,14 @@
+i practice git an cmd etcetera:
+cmd functions:
+Help: 
+Dir: 
+cls: 
+md or mkdir: 
+ren or Rename: 
+del: 
+rmdir:
+
+How to creates a file and folder on cmd/git
+How to deletes a file and folder on cmd
+How to rename a file and folder on cmd
+How to use Help "ati be be lo"

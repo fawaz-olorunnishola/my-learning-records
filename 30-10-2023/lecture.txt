@@ -1,0 +1,15 @@
+Learnt topics:
+* How to use cmd
+* In cmd:
+different in using its commands:
+Help: Brings out all functions/ commands in cmd
+Dir: Brings out folders in a parents folder or sub-folders
+cls: clear commands
+md or mkdir: Use to create a directory/folder
+ren or Rename: rename a file
+del: deletes a filere
+rmdir: removes a folder
+
+Also Learnt:
+windows powershell, but dats for later.
+And git
