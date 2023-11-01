@@ -1,0 +1,10 @@
+learnt git-bash:
+How to use it commands e.g:
+diff      Show changes between commits, commit and working tree, etc
+branch    List, create, or delete branches
+commit    Record changes to the repository
+add       Add file contents to the index
+clone     Clone a repository into a new directory
+init      Create an empty Git repository or reinitialize an existing one
+and so  on just for now "ati be be lo".
+
