@@ -1,0 +1,11 @@
+On 3-11-2023, learnt about:
+Css(Cascading style sheets):
+Definitions,
+Selectors,
+property,
+property value,
+declration,
+How to identify ides in css= #,
+How to identify class in css = .,
+*= Aterisks meanings in css,
+Inheritances in css. 
