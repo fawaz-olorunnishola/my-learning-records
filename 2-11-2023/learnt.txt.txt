@@ -1,0 +1,14 @@
+On 2-11-2023, learnt about:
+Defining a property implicitly using php langauge,
+Valid and invalid property declarations,
+declaring constants,
+changing property and method scope,
+defining a class with a static property,
+Inheriting and extending classes,
+overiding a method and using the parent operator,
+calling the parent class constructor,
+creating a final method,
+Arrays :
+Associative
+Multi-dimensional,
+This functions will found in My (Php-journey).
