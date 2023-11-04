@@ -1,0 +1,8 @@
+On 1-11-2023: Learnt about php:
+Copying a file using php langauge,
+Learnt alternate syntax for copying a file using php langauge,
+Moving a file using php langauge,
+Deleting a file using php langauge,
+Updating a file with file locking using php langauge,
+how to use printf using php langauge,
+And learning different types of php functions.
