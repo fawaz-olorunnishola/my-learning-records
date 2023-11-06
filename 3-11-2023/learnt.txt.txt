@@ -8,4 +8,4 @@ declration,
 How to identify ides in css= #,
 How to identify class in css = .,
 *= Aterisks meanings in css,
-Inheritances in css. 
+Inheritance in css. 
