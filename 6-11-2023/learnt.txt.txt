@@ -1,0 +1,12 @@
+On 6-11-2023, learnt about:
+Css colors,
+How make use of css colors,
+What background, background-color,
+What color is?,
+What rgb is?,
+what rgab is?
+hsl meaning?
+hsla meaning?
+Css units,
+Box-Models,
+Typography.	"No issues".
