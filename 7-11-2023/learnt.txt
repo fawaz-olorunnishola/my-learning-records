@@ -1,0 +1,17 @@
+On 7-11-2023, learnt about:
+                Css:
+Styling links:
+Definition,
+What its function is,
+Also What Cursor is about,
+Pseudo-classes:
+Its functions,
+List-styles:
+its types,
+We created a mini project which is based on typography,box models,list-styles,
+Display:
+It uses,
+Float:
+It uses,
+Columns:
+it types and uses.
