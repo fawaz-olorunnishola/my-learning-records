@@ -1,0 +1,16 @@
+On 8-11-2023 learnt about:
+                    CSS Language:
+Uses of positions:
+its syntax and to make use of them,
+Uses of z-index:
+its function and syntax,
+Uses of flex:
+its properties,
+its syntaxes,
+Uses of order:
+its function,
+What grid-layout is:
+it Uses and syntaxes.
+
+Not yet clarified:
+Styling-images, but will be finished on 9-11-2023.
