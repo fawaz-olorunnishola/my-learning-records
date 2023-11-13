@@ -1,0 +1,11 @@
+On 10-11-2023, Learnt about:
+                        CSS Language:
+Media queries:
+How to make use of them in css doc e.g:
+@media screen and (min-width: 768px) {},
+
+Also learnt pseudo class:
+Its selectors,
+Types:
+pseudo class and pseudo elements,
+its differences,

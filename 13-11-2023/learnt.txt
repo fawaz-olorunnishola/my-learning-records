@@ -1,0 +1,17 @@
+On 13-11-2023, Learnt about:
+                        CSS Language:
+Css Profile cards:
+wrote :
+html codes,
+Styling,
+and so on.
+
+Css functions:
+min,
+max,
+minmax,
+its functions,
+its uses.
+
+Animations:
+But not yet clarified.

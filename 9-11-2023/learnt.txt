@@ -1,0 +1,19 @@
+On 9-11-2023, Learnt about:
+                        CSS Language:
+Styling images:
+inserting an image, 
+styling image,
+making an image responsive,
+Using background image(styling) in css doc.
+linear gradient uses,
+background clip,
+ 
+Also learnt:
+variables:
+Start with hyphens(--) e.g:
+ /* COLOR */
+    --BGCOLOR: #475569;
+    --ALT-BGCOLOR: #1e293b;
+    --RADIO-COLOR: #f5f5f5;
+    --LIGHT-COLOR: #f5f5f5;
+    --DARK-COLOR: #000;
