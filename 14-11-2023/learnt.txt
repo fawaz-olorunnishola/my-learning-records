@@ -1,0 +1,16 @@
+On 14-11-2023, Learnt about:
+                        CSS Language:
+Learnt About Animations:
+Transitions,
+its uses,
+And Translate types,
+    scale     Types,
+    skew      types,
+    rotate    types,
+And their uses,
+Learnt about:
+@keyframes
+its uses,
+Transform uses,
+
+Also worked on a project called : The little taco shop.
