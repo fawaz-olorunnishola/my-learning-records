@@ -1,0 +1,18 @@
+On 16-11-2023, Learnt about:
+                        Javscript lang.:
+Definitons of javascript,
+Linking of js file through html doc.,
+Meaning of Dom:
+its definition,
+Meaning of:
+textContent: its uses, functions,
+innerhtml : its uses, functions,
+
+Worked on or Build:
+        A Counter-website:
+Use to count people on the subway,
+        to add, and save,
+And Also practice on some js functions,
+Working on a :
+        Blackjack game💻🎶:
+    but not yet clarified.
