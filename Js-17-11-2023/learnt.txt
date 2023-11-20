@@ -1,0 +1,10 @@
+On 16-11-2023, Learnt about:
+                        Javscript lang.:
+
+Focused creating summing of two variables and so on.
+Learnt about functions of:
+QuerySelector("string")
+getElementById("string)
+and all other elements still working on💻.
+Uses of if, else if , else, Boolean
+"All for the day".
