@@ -1,0 +1,13 @@
+On 16-11-2023, Learnt about:
+                        Javscript lang.:
+Learnt about:
+    Arrays,
+    For loop(its initialization expression its Condition expression, A Modification expression).
+    Uses of push function,
+    return(value),
+    Math.random() Uses,
+    Math.floor() Uses,
+    logical operators, definitons, Uses,
+    Methods and objects,
+    Practice(Refresh the brain),
+    Working on Chrome extensions.
