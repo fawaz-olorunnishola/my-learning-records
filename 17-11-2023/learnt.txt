@@ -1,4 +1,4 @@
-On 16-11-2023, Learnt about:
+On 17-11-2023, Learnt about:
                         Javscript lang.:
 
 Focused creating summing of two variables and so on.

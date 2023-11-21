@@ -1,0 +1,10 @@
+On 21-11-2023, Learnt about:
+                        Javscript lang.:
+    Working on Chrome Extensions,
+    uses of addEventListener,
+    its functions, uses,
+    const meaning, uses, functions,
+    Refactoring of your codes,
+    Using length function,
+    Practiced(Refresh the brain),
+    Not much on today's activity.
