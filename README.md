@@ -1,8 +1,7 @@
 # my-learning-records:
 Git-bash
-Meaning of gui
-Meaning of cli
 Php
 html
 css
 javascript
+My-daily-records on programming,

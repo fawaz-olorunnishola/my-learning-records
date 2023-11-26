@@ -1,0 +1,13 @@
+On 22-11-2023, Learnt about:
+                        Javscript lang.:
+            Templating of strings,
+            Using Localstorage,
+            Differences between Localstorage and sessionStorage,
+            Used Json = Javscript Object Notation,
+            Json uses, functions,
+            What typeof is used for,
+            Localstorage syntaxes,
+            Api = Appliation programming interface,
+            Uses, functions
+            "Done with the Javscript programming course",
+            Practicing.......(Refreshing)
