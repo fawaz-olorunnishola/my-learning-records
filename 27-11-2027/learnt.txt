@@ -1,0 +1,7 @@
+On 27-11-2023, Learnt about:
+                        Javscript lang.:
+            Ternary Operators,
+            Concatenation,
+            Conditional statements,
+            Js functions, Variables,
+            Practiced. 

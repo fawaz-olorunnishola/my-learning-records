@@ -1,0 +1,10 @@
+On 1-12-2023, Learnt about:
+                        Javscript lang.:
+                Lectures: (Help mumin with some glitches "again",
+                            refactored his code.)
+                    Worked on logical operators,
+                    Make use of JSON(and its functions),
+                    Make use of for loop expression,
+                    Make use of if,else.... else...if statements,
+                    Make use lt,const functions,
+                    Went back on reading.
