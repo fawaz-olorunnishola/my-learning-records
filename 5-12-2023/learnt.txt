@@ -1,0 +1,11 @@
+On 5-12-2023, Learnt about:
+                        React/Javscript lang.:
+            Watched intro to react,
+            cd to "my-project-folder",
+            Took a lot of time to init "my-project-folder",
+            Had a lot of "issues for a veryyyyyy long time.",
+            Logged out my code to the browser,
+            Lectures: ("Try to load react resources on 
+                        mumin's waris and sodiq laptops",
+                        Got a solution on it a bit later),
+                         

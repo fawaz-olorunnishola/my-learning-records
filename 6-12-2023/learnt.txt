@@ -1,0 +1,9 @@
+On 6-12-2023, Learnt about:
+                        React/Javscript lang.:
+            React(definitions, its uses, functions),
+            Import and export functions in React Lang.
+            React Component,
+            Download some resources,
+            Jxs Rules,
+            React Structures,
+            

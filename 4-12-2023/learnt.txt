@@ -1,0 +1,11 @@
+On 4-12-2023, Learnt about:
+                        React/Javscript lang.:
+        Getting to know about react,
+        Download its resources,
+        Node (18.19.0),
+        nvm,
+        Loaded the resources,
+        Practiced on it,
+        "Work on it 5-12-2023",
+        "💻👌".
+        
