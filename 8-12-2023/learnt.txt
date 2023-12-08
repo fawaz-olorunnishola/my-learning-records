@@ -1,0 +1,8 @@
+On 8-12-2023, Learnt about:
+                        React/Javscript lang.:
+            Used Vanilla js
+            React Components,
+            Propeties drilling,
+            React Data flow,
+            Alternative Context Apis and other libraries,
+            How to React Components

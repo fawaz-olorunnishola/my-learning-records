@@ -1,0 +1,15 @@
+On 7-12-2023, Learnt about:
+                        React/Javscript lang.:
+            Jxs Rules,
+            React structures,
+            Linking css file to a react file,
+            Worked on Inline Css,
+            Parameters,
+            Value definiton,
+            Propeties,
+            Refactor the codes,
+            Children properties,
+            Simple lists,
+            Key/value pairs,
+            addEventlistener(functions, Uses),
+            Objects/Methods. "💻👌"
