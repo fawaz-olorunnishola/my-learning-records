@@ -1,0 +1,6 @@
+On 12-12-2023, Learnt about:
+                        React/Javscript lang.:
+                Styled the elements,
+                Add a title to the project/website,
+                Build production Application,
+                Run npm build command

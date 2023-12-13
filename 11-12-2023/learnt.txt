@@ -1,0 +1,8 @@
+On 11-12-2023, Learnt about:
+                        React/Javscript lang.:
+            Used Es6 modules,
+            Used Import and export,
+            And its types,
+            Learnt how to use local images through src(source) folder,
+            Updated our code,
+            Create folders to know how to Organise our code, 
